@@ -3,7 +3,7 @@ title: "MacでローカルLLM検証を始める前に、Obsidian・GitHub・Code
 emoji: "🛠️"
 type: "tech"
 topics: ["mac", "obsidian", "github", "ollama", "ai"]
-published: false
+published: true
 ---
 
 # はじめに
