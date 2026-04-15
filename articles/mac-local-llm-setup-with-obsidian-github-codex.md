@@ -1,8 +1,8 @@
 ---
-title: "Macで低コストなローカルLLM運用の土台を Obsidian・GitHub・Codex で整理した"
+title: "MacでローカルLLM検証を始める前に、Obsidian・GitHub・Codexの役割を整理した"
 emoji: "🛠️"
 type: "tech"
-topics: ["macos", "obsidian", "github", "llm", "codex"]
+topics: ["mac", "obsidian", "github", "ollama", "ai"]
 published: false
 ---
 
