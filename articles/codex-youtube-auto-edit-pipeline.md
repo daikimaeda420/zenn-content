@@ -6,9 +6,9 @@ topics: ["codex", "youtube", "video", "automation", "remotion"]
 published: true
 ---
 
-![CodexでYouTube動画編集の半自動化GUIを作った記録](/images/codex-articles/youtube-auto-edit-thumbnail.png)
-
 # はじめに
+
+![CodexでYouTube動画編集の半自動化GUIを作った記録](/images/codex-articles/youtube-auto-edit-thumbnail.png)
 
 ゲーム制作を進める中で、YouTube向けの制作ログ動画も継続的に出したくなりました。
 

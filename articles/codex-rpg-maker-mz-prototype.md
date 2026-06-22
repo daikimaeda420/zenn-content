@@ -6,9 +6,9 @@ topics: ["codex", "rpgmaker", "gamedev", "javascript", "rpg"]
 published: true
 ---
 
-![CodexとRPG Maker MZで政治サスペンスRPGの体験版導線を仮組みした記録](/images/codex-articles/rpg-maker-mz-prototype-thumbnail.png)
-
 # はじめに
+
+![CodexとRPG Maker MZで政治サスペンスRPGの体験版導線を仮組みした記録](/images/codex-articles/rpg-maker-mz-prototype-thumbnail.png)
 
 RPG Maker MZで、政治サスペンス型の育成バトルRPGを作り始めました。
 
