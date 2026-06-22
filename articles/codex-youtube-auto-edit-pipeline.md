@@ -8,7 +8,7 @@ published: true
 
 # はじめに
 
-![CodexでYouTube動画編集の半自動化GUIを作った記録](/images/codex-articles/youtube-auto-edit-thumbnail.png)
+![CodexでYouTube動画編集の半自動化GUIを作った記録](https://raw.githubusercontent.com/daikimaeda420/zenn-content/main/images/codex-articles/youtube-auto-edit-thumbnail.png)
 
 ゲーム制作を進める中で、YouTube向けの制作ログ動画も継続的に出したくなりました。
 
