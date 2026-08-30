@@ -6,6 +6,8 @@ topics: ["ai", "lean", "formalverification", "programming", "math"]
 published: true
 ---
 
+![AI時代のLeanによる検証を表すサムネイル](https://raw.githubusercontent.com/daikimaeda420/zenn-content/main/images/why-lean-verification-matters-in-ai-era/thumbnail.jpg)
+
 # AIが「もっともらしい答え」を返す時代に、何を信頼するか
 
 生成AIは、コード、設計、仕様、数学の証明らしき文章まで作れるようになりました。便利になる一方で、AIの出力をそのまま正しいものとして扱うことには、はっきりした限界があります。
