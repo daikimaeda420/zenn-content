@@ -6,6 +6,8 @@ topics: ["security", "ai", "devsecops", "startup", "github"]
 published: true
 ---
 
+![AI時代のスタートアップ開発組織のセキュリティ対策を表すサムネイル](https://raw.githubusercontent.com/daikimaeda420/zenn-content/main/images/ai-era-security-for-startup-dev-teams/thumbnail.png)
+
 ## はじめに
 
 AIを使う開発組織では、コード作成、調査、レビュー、顧客対応までの速度が上がる。一方で、攻撃者もAIを使って、もっと自然なフィッシング文面を作り、公開情報をもとに標的を絞り、漏えいした認証情報を素早く悪用できる。
